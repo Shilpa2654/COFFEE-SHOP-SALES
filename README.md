@@ -39,3 +39,19 @@ Extract insights for data-driven decision-making
 4. Are there any seasonal patterns in sales?
 5. Which products have the highest revenue contribution across all stores?
 6. Can we identify customer purchasing patterns based on time and location?
+
+## 📌 Key Findings & Insights
+
+Peak Sales Hours: Sales peak between 8 AM - 10 AM and 5 PM - 7 PM.
+
+Bestselling Products: Earl Grey Tea and Cappuccino had the highest purchase count.
+
+Seasonal Trends: Sales increase during the holiday season (December - January).
+
+Store Performance: The downtown location generated the highest revenue.
+
+Revenue Drivers: High-priced items do not always have the highest sales volume.
+
+## ✅ Conclusion
+
+This project provided valuable insights into customer preferences, peak sales times, and product performance. The findings can help coffee shop owners make data-driven business decisions, such as optimizing inventory, pricing strategies, and marketing campaigns.
