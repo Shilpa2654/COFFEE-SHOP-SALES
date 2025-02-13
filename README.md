@@ -33,9 +33,9 @@ Extract insights for data-driven decision-making
 5. Which time of the day has the highest number of transactions?
 
  Advanced Questions
-12. What are the peak sales hours for each store location?
-13. How does the sales trend vary across different months?
-14. What is the correlation between product price and quantity sold?
-15. Are there any seasonal patterns in sales?
-16. Which products have the highest revenue contribution across all stores?
-17. Can we identify customer purchasing patterns based on time and location?
+1. What are the peak sales hours for each store location?
+2. How does the sales trend vary across different months?
+3. What is the correlation between product price and quantity sold?
+4. Are there any seasonal patterns in sales?
+5. Which products have the highest revenue contribution across all stores?
+6. Can we identify customer purchasing patterns based on time and location?
