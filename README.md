@@ -3,6 +3,10 @@
 
 This project analyzes a coffee shop's sales data using SQL. The goal is to derive business insights, understand customer behavior, and optimize sales strategies. The dataset includes transactions, product details, sales amounts, and timestamps.
 
+## Data set used:
+- <a href="https://github.com/Shilpa2654/COFFEE-SHOP-SALES/blob/main/coffee_shop.csv">Coffee shop data</a>
+
+
 ## 🎯 Objectives
 
 Identify key sales trends and revenue drivers
@@ -39,6 +43,9 @@ Extract insights for data-driven decision-making
 4. Are there any seasonal patterns in sales?
 5. Which products have the highest revenue contribution across all stores?
 6. Can we identify customer purchasing patterns based on time and location?
+
+##📌 SQL Queries Used
+- <a href="https://github.com/Shilpa2654/COFFEE-SHOP-SALES/blob/main/COFFEE_SHOP_SALES.sql">queries</a> .
 
 ## 📌 Key Findings & Insights
 
