@@ -17,7 +17,7 @@ Extract insights for data-driven decision-making
 
 ## ❓ Key Business Questions Answered
 
-Basic Questions
+ Basic Questions
 1. What is the total sales revenue?
 2. How many transactions occurred in total?
 3. What are the most frequently purchased products?
@@ -25,14 +25,14 @@ Basic Questions
 5. What is the average unit price of all products?
 6. Which store location has the highest number of transactions?
 
-Intermediate Questions
+ Intermediate Questions
 7. What is the total revenue generated per store location?
 8. What are the top 5 best-selling products?
 9. What is the average number of products purchased per transaction?
 10. What is the sales distribution across different product categories?
 11. Which time of the day has the highest number of transactions?
 
-Advanced Questions
+ Advanced Questions
 12. What are the peak sales hours for each store location?
 13. How does the sales trend vary across different months?
 14. What is the correlation between product price and quantity sold?
