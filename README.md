@@ -49,13 +49,13 @@ Extract insights for data-driven decision-making
 
 ## 📌 Key Findings & Insights
 
-Peak Sales Hours: Sales peak between 8 AM - 10 AM and 5 PM - 7 PM.
+Peak Sales Hours: Sales peak in the morning.
 
-Bestselling Products: Earl Grey Tea and Cappuccino had the highest purchase count.
+Bestselling Products: Earl Grey Tea and Chocolate Croissant had the highest purchase count.
 
-Seasonal Trends: Sales increase during the holiday season (December - January).
+Seasonal Trends: Sales increase during April and May.
 
-Store Performance: The downtown location generated the highest revenue.
+Store Performance: The 'Astoria' location generated the highest revenue.
 
 Revenue Drivers: High-priced items do not always have the highest sales volume.
 
