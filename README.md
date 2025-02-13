@@ -26,11 +26,11 @@ Extract insights for data-driven decision-making
 6. Which store location has the highest number of transactions?
 
  Intermediate Questions
-7. What is the total revenue generated per store location?
-8. What are the top 5 best-selling products?
-9. What is the average number of products purchased per transaction?
-10. What is the sales distribution across different product categories?
-11. Which time of the day has the highest number of transactions?
+1. What is the total revenue generated per store location?
+2. What are the top 5 best-selling products?
+3. What is the average number of products purchased per transaction?
+4. What is the sales distribution across different product categories?
+5. Which time of the day has the highest number of transactions?
 
  Advanced Questions
 12. What are the peak sales hours for each store location?
